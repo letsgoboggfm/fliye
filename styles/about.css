@@ -81,7 +81,7 @@
     padding-top: 12px;
     padding-bottom: 12px;
     color: white;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .home:hover{
     border-top: 2px solid red;
@@ -94,7 +94,7 @@
     border-radius: 15px;
     text-decoration: none;
     color: white;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: blue;
     border: 2px solid blue;
 }
@@ -104,11 +104,11 @@
     padding-right: 60px;
     border-radius: 15px;
     text-decoration: none;
-    color: white;
-    font-family: cursive;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
     border: 2px solid red;
     display: flex;
-    background-color: red;
+    background-color: white;
 }
 
 
@@ -536,7 +536,7 @@
         border-radius: 15px;
         text-decoration: none;
         color: white;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
         background-color: blue;
         border: 2px solid blue;
     }
@@ -547,7 +547,7 @@
         padding-top: 12px;
         padding-bottom: 12px;
         color: white;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .prob{
         padding: 15px;
@@ -555,11 +555,11 @@
         padding-right: 50px;
         border-radius: 15px;
         text-decoration: none;
-        color: white;
-        font-family: cursive;
+        color: red;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px solid red;
         display: flex;
-        background-color: red;
+        background-color: white;
     }
     .splits{
         width: auto;
@@ -673,7 +673,7 @@
         border-radius: 15px;
         text-decoration: none;
         color: white;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
         background-color: blue;
         border: 2px solid blue;
     }
@@ -684,7 +684,7 @@
         padding-top: 12px;
         padding-bottom: 12px;
         color: white;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .prob{
         padding: 15px;
@@ -693,10 +693,10 @@
         border-radius: 15px;
         text-decoration: none;
         color: white;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px solid red;
         display: flex;
-        background-color: red;
+        background-color: white;
     }
     .splits{
         width: auto;
@@ -825,7 +825,7 @@
         border-radius: 15px;
         text-decoration: none;
         color: white;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
         background-color: blue;
         border: 2px solid red;
         text-align: center;
@@ -858,7 +858,7 @@
         padding-top: 12px;
         padding-bottom: 12px;
         color: white;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .home:hover{
         border-top: none;
@@ -871,16 +871,16 @@
         padding-right: 50px;
         border-radius: 15px;
         text-decoration: none;
-        color: white;
+        color: red;
         width: fit-content;
         height: 25px;
         position: relative;
         top: -30px;
         line-height: 22px;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px solid blue;
         display: flex;
-        background-color: red;
+        background-color: white;
     }
     .splits{
         width: auto;
@@ -1037,7 +1037,7 @@
         border-radius: 15px;
         text-decoration: none;
         color: white;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
         background-color: blue;
         border: 2px solid red;
         text-align: center;
@@ -1070,7 +1070,7 @@
         padding-top: 12px;
         padding-bottom: 12px;
         color: white;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .home:hover{
         border-top: none;
@@ -1083,16 +1083,16 @@
         padding-right: 50px;
         border-radius: 15px;
         text-decoration: none;
-        color: white;
+        color: red;
         width: fit-content;
         height: 25px;
         position: relative;
         top: -30px;
         line-height: 22px;
-        font-family: cursive;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px solid blue;
         display: flex;
-        background-color: red;
+        background-color: white;
     }
     .splits{
         width: auto;
